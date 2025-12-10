@@ -85,8 +85,7 @@ st.set_page_config(
 
 st.title("🧠 AI vs Human Scientific Abstract Detector")
 st.write(
-    "Paste a scientific abstract below, and this app will estimate whether it was written by a **Human** or **AI (ChatGPT/DeepSeek)** "
-    "using a machine-learning model trained on your 150-abstract dataset."
+    "Paste a scientific abstract below, and this app will estimate whether it was written by a **Human** or **AI**"
 )
 
 st.markdown("---")
